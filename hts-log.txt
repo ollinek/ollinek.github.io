@@ -1,0 +1,12 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 18 Dec 2020 12:15:11 at https://gobyebye.github.io/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://gobyebye.github.io/ -O1 "C:\Users\vashh\Desktop\github" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:15:13	Error: 	"Not Found" (404) at link https://gobyebye.github.io/daddie.xyz (from https://gobyebye.github.io/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 seconds : 6 links scanned, 4 files written (21047 bytes overall) [21981 bytes received at 10990 bytes/sec], 35618 bytes transferred using HTTP compression in 6 files, ratio 48%, 2.0 requests per connection
+(1 errors, 0 warnings, 0 messages)
